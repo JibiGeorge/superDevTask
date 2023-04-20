@@ -1,0 +1,902 @@
+[
+    {
+        "id": "3cf21bd7-5150-45ff-83b8-13de8357f7d8",
+        "date": "2023-01-06",
+        "resource": "product",
+        "memory": 1.65,
+        "cpu": 0.46,
+        "storage": 0.19,
+        "category": "project"
+    },
+    {
+        "id": "141eca3f-0e3b-4756-affa-b079b21f1841",
+        "date": "2023-08-03",
+        "resource": "product",
+        "memory": 0.53,
+        "cpu": 1.51,
+        "storage": 1.03,
+        "category": "unbox"
+    },
+    {
+        "id": "6ce709d2-1767-46f8-925f-9490a3fec7bd",
+        "date": "2023-03-11",
+        "resource": "testing",
+        "memory": 0.32,
+        "cpu": 1.44,
+        "storage": 1.88,
+        "category": "project"
+    },
+    {
+        "id": "84bc1071-41d7-4686-b936-daf95d07d99e",
+        "date": "2023-03-20",
+        "resource": "product",
+        "memory": 0.31,
+        "cpu": 0.69,
+        "storage": 1.54,
+        "category": "unbox"
+    },
+    {
+        "id": "9af50d60-f21c-480e-a77a-39ebeb84f29b",
+        "date": "2023-01-19",
+        "resource": "product",
+        "memory": 0.68,
+        "cpu": 1.65,
+        "storage": 0.23,
+        "category": "unbox"
+    },
+    {
+        "id": "c8411e11-55b7-42ee-ad24-d464eeb5e0a9",
+        "date": "2023-01-01",
+        "resource": "product",
+        "memory": 1.6,
+        "cpu": 1.97,
+        "storage": 0.01,
+        "category": "unbox"
+    },
+    {
+        "id": "8249a170-ec7e-45ef-9c8b-669dd0b186bf",
+        "date": "2023-01-16",
+        "resource": "testing",
+        "memory": 0.78,
+        "cpu": 1.64,
+        "storage": 1.65,
+        "category": "project"
+    },
+    {
+        "id": "aa776d02-11d0-4070-ad35-fe959852bf05",
+        "date": "2023-08-07",
+        "resource": "testing",
+        "memory": 1.24,
+        "cpu": 1.19,
+        "storage": 1.64,
+        "category": "unbox"
+    },
+    {
+        "id": "4633209a-8f4b-4e38-aee3-331ff5f7bfce",
+        "date": "2023-03-26",
+        "resource": "testing",
+        "memory": 1.04,
+        "cpu": 1.06,
+        "storage": 1.75,
+        "category": "unbox"
+    },
+    {
+        "id": "968c78af-9500-410d-a3f0-d906e5b6ff8a",
+        "date": "2023-10-28",
+        "resource": "product",
+        "memory": 0.02,
+        "cpu": 0.7,
+        "storage": 1.25,
+        "category": "unbox"
+    },
+    {
+        "id": "9f6586e3-52dd-469a-a0b2-e1665e3a334a",
+        "date": "2023-06-11",
+        "resource": "product",
+        "memory": 0.2,
+        "cpu": 0.31,
+        "storage": 1.31,
+        "category": "project"
+    },
+    {
+        "id": "a5dbdd1f-d6b2-4e7c-82e7-ac3b567dae4a",
+        "date": "2023-03-15",
+        "resource": "testing",
+        "memory": 0.78,
+        "cpu": 0.94,
+        "storage": 0.93,
+        "category": "unbox"
+    },
+    {
+        "id": "cdff26e8-7e86-4e51-888b-b7843b053782",
+        "date": "2023-10-01",
+        "resource": "testing",
+        "memory": 0.01,
+        "cpu": 0.2,
+        "storage": 0.31,
+        "category": "project"
+    },
+    {
+        "id": "4b6b5cfe-78a6-414d-a2a9-9d755d7204ea",
+        "date": "2023-07-08",
+        "resource": "product",
+        "memory": 0.69,
+        "cpu": 1.61,
+        "storage": 0.19,
+        "category": "project"
+    },
+    {
+        "id": "402278a1-93f1-4fbb-8bfc-27696e39975d",
+        "date": "2023-06-14",
+        "resource": "testing",
+        "memory": 0.79,
+        "cpu": 1.55,
+        "storage": 0.49,
+        "category": "unbox"
+    },
+    {
+        "id": "67cd2bf8-a3ce-4b78-92c6-e2c832f7b737",
+        "date": "2023-06-27",
+        "resource": "product",
+        "memory": 0.58,
+        "cpu": 0.39,
+        "storage": 1.69,
+        "category": "unbox"
+    },
+    {
+        "id": "5b7954b7-0da6-4199-83ec-bc917095f7c4",
+        "date": "2023-09-08",
+        "resource": "testing",
+        "memory": 1.92,
+        "cpu": 0.86,
+        "storage": 0.96,
+        "category": "unbox"
+    },
+    {
+        "id": "3e78393d-c17b-4dc3-8c82-9a3bd304aad2",
+        "date": "2023-12-28",
+        "resource": "testing",
+        "memory": 1.39,
+        "cpu": 1.06,
+        "storage": 1.9,
+        "category": "project"
+    },
+    {
+        "id": "450c1fc7-c64c-44da-beef-4c9d770e7e10",
+        "date": "2023-01-19",
+        "resource": "testing",
+        "memory": 0.88,
+        "cpu": 1.73,
+        "storage": 1.21,
+        "category": "unbox"
+    },
+    {
+        "id": "b2779c40-620a-419a-b04d-16cd3152feb9",
+        "date": "2023-05-22",
+        "resource": "testing",
+        "memory": 0.02,
+        "cpu": 1.16,
+        "storage": 1.69,
+        "category": "unbox"
+    },
+    {
+        "id": "3946f37c-f04f-49c8-8ffc-ff5afa46dadb",
+        "date": "2023-04-14",
+        "resource": "testing",
+        "memory": 1.56,
+        "cpu": 0.84,
+        "storage": 1.87,
+        "category": "project"
+    },
+    {
+        "id": "5523aaad-b9e7-4441-afa9-efef4442f1ae",
+        "date": "2023-02-24",
+        "resource": "product",
+        "memory": 1.81,
+        "cpu": 1.95,
+        "storage": 0.4,
+        "category": "unbox"
+    },
+    {
+        "id": "d76b797b-8a37-4ea2-b377-72307f1bfd64",
+        "date": "2023-02-08",
+        "resource": "testing",
+        "memory": 1.44,
+        "cpu": 1.15,
+        "storage": 1.89,
+        "category": "project"
+    },
+    {
+        "id": "a521330f-080c-4423-bb40-d86dc0453834",
+        "date": "2023-06-18",
+        "resource": "product",
+        "memory": 1.65,
+        "cpu": 0.76,
+        "storage": 0.61,
+        "category": "unbox"
+    },
+    {
+        "id": "f973c126-b457-4b75-b80f-47a395929c8b",
+        "date": "2023-10-23",
+        "resource": "product",
+        "memory": 0.84,
+        "cpu": 0.33,
+        "storage": 1.64,
+        "category": "project"
+    },
+    {
+        "id": "564db0b2-8ac1-406d-adfd-8b3a1c8f4a05",
+        "date": "2023-08-14",
+        "resource": "product",
+        "memory": 1.89,
+        "cpu": 0.43,
+        "storage": 0.79,
+        "category": "unbox"
+    },
+    {
+        "id": "b6157a30-6bf0-49f5-b67b-624319edfbb7",
+        "date": "2023-08-23",
+        "resource": "product",
+        "memory": 0.28,
+        "cpu": 0.27,
+        "storage": 0.07,
+        "category": "project"
+    },
+    {
+        "id": "9d22f056-7650-4dcc-a0d3-2f0811b63be0",
+        "date": "2023-07-18",
+        "resource": "testing",
+        "memory": 1.29,
+        "cpu": 0.38,
+        "storage": 0.37,
+        "category": "project"
+    },
+    {
+        "id": "0c959785-e580-4b48-92af-a5eb9afcb1db",
+        "date": "2023-04-02",
+        "resource": "product",
+        "memory": 1,
+        "cpu": 0.5,
+        "storage": 0.62,
+        "category": "unbox"
+    },
+    {
+        "id": "16facca1-3b59-4ab2-8f0c-f2f8f5759101",
+        "date": "2023-10-13",
+        "resource": "product",
+        "memory": 1.06,
+        "cpu": 0.82,
+        "storage": 1.76,
+        "category": "project"
+    },
+    {
+        "id": "791fc756-227f-4ea1-8cdb-84e1fe67b86e",
+        "date": "2023-11-22",
+        "resource": "product",
+        "memory": 1.83,
+        "cpu": 1.75,
+        "storage": 1.59,
+        "category": "project"
+    },
+    {
+        "id": "48f013e9-4b20-45a6-a519-9b21e511691a",
+        "date": "2023-03-10",
+        "resource": "testing",
+        "memory": 1.98,
+        "cpu": 0.06,
+        "storage": 1.67,
+        "category": "unbox"
+    },
+    {
+        "id": "bcccdab0-bcd7-4b2e-9cd1-bd0b7bc86794",
+        "date": "2023-09-09",
+        "resource": "testing",
+        "memory": 1.21,
+        "cpu": 0.84,
+        "storage": 0.4,
+        "category": "unbox"
+    },
+    {
+        "id": "3295abc1-dd9c-4abc-84fa-5fade891efb6",
+        "date": "2023-11-05",
+        "resource": "product",
+        "memory": 0.18,
+        "cpu": 0.52,
+        "storage": 0.39,
+        "category": "project"
+    },
+    {
+        "id": "7273fb22-5ba0-470f-b3ab-8199b3b7f9ef",
+        "date": "2023-08-18",
+        "resource": "product",
+        "memory": 0.65,
+        "cpu": 1.27,
+        "storage": 1.82,
+        "category": "unbox"
+    },
+    {
+        "id": "fb390170-eeed-4cfc-b9db-67093d6bc754",
+        "date": "2023-08-02",
+        "resource": "product",
+        "memory": 1.08,
+        "cpu": 0.04,
+        "storage": 0.49,
+        "category": "unbox"
+    },
+    {
+        "id": "62358097-c670-4c81-b33c-da0abdd6217c",
+        "date": "2023-06-17",
+        "resource": "testing",
+        "memory": 0.12,
+        "cpu": 0.24,
+        "storage": 1.12,
+        "category": "unbox"
+    },
+    {
+        "id": "b5f24e31-c70d-4f3c-849f-d1e6f038082d",
+        "date": "2023-02-08",
+        "resource": "testing",
+        "memory": 1.11,
+        "cpu": 1.28,
+        "storage": 1.53,
+        "category": "project"
+    },
+    {
+        "id": "7e85b541-87ad-4328-933b-dd58b75e60f9",
+        "date": "2023-03-26",
+        "resource": "testing",
+        "memory": 0.64,
+        "cpu": 0.21,
+        "storage": 0.34,
+        "category": "unbox"
+    },
+    {
+        "id": "014bcd93-4ba5-4ba9-8f46-70d742ed94f5",
+        "date": "2023-07-16",
+        "resource": "testing",
+        "memory": 2,
+        "cpu": 0.77,
+        "storage": 0.46,
+        "category": "unbox"
+    },
+    {
+        "id": "23d0b889-addc-46fc-b57e-e3c2ad81ad3b",
+        "date": "2023-07-06",
+        "resource": "product",
+        "memory": 1.22,
+        "cpu": 0.69,
+        "storage": 1.85,
+        "category": "unbox"
+    },
+    {
+        "id": "0d543aac-11c0-432d-8a65-3cd0f70c927f",
+        "date": "2023-02-25",
+        "resource": "product",
+        "memory": 0.65,
+        "cpu": 1.13,
+        "storage": 1.49,
+        "category": "unbox"
+    },
+    {
+        "id": "21a4d7fe-82c6-4669-9401-262da6d1398a",
+        "date": "2023-04-15",
+        "resource": "testing",
+        "memory": 0.55,
+        "cpu": 0.34,
+        "storage": 0.6,
+        "category": "unbox"
+    },
+    {
+        "id": "58cab4f2-9104-4eb9-994a-7bc9819c242f",
+        "date": "2023-01-08",
+        "resource": "testing",
+        "memory": 0.1,
+        "cpu": 1.19,
+        "storage": 1.32,
+        "category": "unbox"
+    },
+    {
+        "id": "8d1d1b2f-550e-4d78-b515-e22f5f996098",
+        "date": "2023-03-29",
+        "resource": "product",
+        "memory": 0.12,
+        "cpu": 0.24,
+        "storage": 0.52,
+        "category": "unbox"
+    },
+    {
+        "id": "69097aae-ced5-4d28-b23f-e36090ff8bc3",
+        "date": "2023-09-18",
+        "resource": "testing",
+        "memory": 1.76,
+        "cpu": 0.61,
+        "storage": 0.99,
+        "category": "project"
+    },
+    {
+        "id": "faab61fb-a2ec-4b3a-96cd-704c6da1de8b",
+        "date": "2023-03-07",
+        "resource": "testing",
+        "memory": 1.34,
+        "cpu": 1.45,
+        "storage": 0.6,
+        "category": "unbox"
+    },
+    {
+        "id": "e1af806c-271d-4919-855b-e8d5c5a1acc1",
+        "date": "2023-09-06",
+        "resource": "testing",
+        "memory": 0.18,
+        "cpu": 1.34,
+        "storage": 1.17,
+        "category": "project"
+    },
+    {
+        "id": "24c35db3-f8da-409d-8026-228e10e4aa08",
+        "date": "2023-03-23",
+        "resource": "product",
+        "memory": 0.53,
+        "cpu": 0.25,
+        "storage": 0.16,
+        "category": "unbox"
+    },
+    {
+        "id": "9e52690c-9ecd-430a-86c1-c04a482a9958",
+        "date": "2023-06-03",
+        "resource": "product",
+        "memory": 1.35,
+        "cpu": 1.11,
+        "storage": 0.87,
+        "category": "project"
+    },
+    {
+        "id": "51fbd3ab-6ca3-47ee-8e56-971fa05d9d00",
+        "date": "2023-04-05",
+        "resource": "product",
+        "memory": 1.11,
+        "cpu": 0.35,
+        "storage": 0.81,
+        "category": "project"
+    },
+    {
+        "id": "a324fd88-148d-4bf2-9640-0eb8849c9c69",
+        "date": "2023-03-22",
+        "resource": "product",
+        "memory": 0.9,
+        "cpu": 1.32,
+        "storage": 1.76,
+        "category": "unbox"
+    },
+    {
+        "id": "fcecdf0c-ea7a-4d66-8854-b66c39337f42",
+        "date": "2023-02-19",
+        "resource": "product",
+        "memory": 0.65,
+        "cpu": 0.37,
+        "storage": 0.81,
+        "category": "project"
+    },
+    {
+        "id": "6e1fbea4-36dc-4c95-a16e-17e07a4991e8",
+        "date": "2023-10-21",
+        "resource": "testing",
+        "memory": 1.49,
+        "cpu": 1.41,
+        "storage": 1.78,
+        "category": "project"
+    },
+    {
+        "id": "86c96617-36d7-4385-9f35-2e1f743ad34e",
+        "date": "2023-12-23",
+        "resource": "product",
+        "memory": 1.63,
+        "cpu": 1.18,
+        "storage": 0.24,
+        "category": "unbox"
+    },
+    {
+        "id": "9894ae44-5e98-412d-97d2-a095234e91d6",
+        "date": "2023-12-13",
+        "resource": "product",
+        "memory": 1.79,
+        "cpu": 1.84,
+        "storage": 1.61,
+        "category": "unbox"
+    },
+    {
+        "id": "6cf2cbc9-eecd-4916-b534-4e5e4a4e5c46",
+        "date": "2023-11-09",
+        "resource": "product",
+        "memory": 1.3,
+        "cpu": 0.1,
+        "storage": 0.52,
+        "category": "unbox"
+    },
+    {
+        "id": "f119babc-254c-44cb-abde-0c4e2ff827b6",
+        "date": "2023-10-07",
+        "resource": "testing",
+        "memory": 1.5,
+        "cpu": 0.23,
+        "storage": 0.02,
+        "category": "project"
+    },
+    {
+        "id": "311688d0-00b4-456b-873b-049632720ad8",
+        "date": "2023-01-23",
+        "resource": "product",
+        "memory": 1.74,
+        "cpu": 0.26,
+        "storage": 1.2,
+        "category": "project"
+    },
+    {
+        "id": "2956dd72-a1f3-4825-bc92-c747ca9e895b",
+        "date": "2023-01-11",
+        "resource": "product",
+        "memory": 1.29,
+        "cpu": 1.46,
+        "storage": 0.78,
+        "category": "unbox"
+    },
+    {
+        "id": "19433e1c-1af7-4931-aed5-1fba472e516d",
+        "date": "2023-11-01",
+        "resource": "product",
+        "memory": 1.08,
+        "cpu": 0.54,
+        "storage": 1.36,
+        "category": "project"
+    },
+    {
+        "id": "3f1e37a8-91ed-43f2-a628-606be114fd1f",
+        "date": "2023-11-20",
+        "resource": "product",
+        "memory": 1.36,
+        "cpu": 0.14,
+        "storage": 0.36,
+        "category": "unbox"
+    },
+    {
+        "id": "5ebbb81d-0536-413a-8650-fccdbbf2d6bf",
+        "date": "2023-01-08",
+        "resource": "product",
+        "memory": 0.74,
+        "cpu": 1.34,
+        "storage": 1.92,
+        "category": "unbox"
+    },
+    {
+        "id": "918dc0a5-8e00-4c7d-885d-5f88c8d1056f",
+        "date": "2023-01-07",
+        "resource": "testing",
+        "memory": 1.67,
+        "cpu": 1.49,
+        "storage": 1.2,
+        "category": "project"
+    },
+    {
+        "id": "3d57fac0-231c-4982-b65d-0e5b03057563",
+        "date": "2023-01-02",
+        "resource": "testing",
+        "memory": 0.37,
+        "cpu": 0.78,
+        "storage": 1.09,
+        "category": "project"
+    },
+    {
+        "id": "8b31373b-611d-4623-904f-59e26d5e1d81",
+        "date": "2023-10-14",
+        "resource": "testing",
+        "memory": 1.22,
+        "cpu": 0.19,
+        "storage": 1.73,
+        "category": "unbox"
+    },
+    {
+        "id": "37c5119e-abd3-4b98-82a3-6542a3d95dc0",
+        "date": "2023-06-15",
+        "resource": "product",
+        "memory": 0.31,
+        "cpu": 0.67,
+        "storage": 1.4,
+        "category": "project"
+    },
+    {
+        "id": "e4f8be60-7519-43df-9544-eda467f8a687",
+        "date": "2023-08-16",
+        "resource": "testing",
+        "memory": 1.62,
+        "cpu": 0.19,
+        "storage": 1.75,
+        "category": "project"
+    },
+    {
+        "id": "1c940243-e3b4-4745-ac47-0593e9d18543",
+        "date": "2023-07-16",
+        "resource": "product",
+        "memory": 0.86,
+        "cpu": 0.95,
+        "storage": 0.89,
+        "category": "unbox"
+    },
+    {
+        "id": "9db94282-c45d-48db-af94-88800609b86e",
+        "date": "2023-11-23",
+        "resource": "testing",
+        "memory": 0.38,
+        "cpu": 0.65,
+        "storage": 0.86,
+        "category": "project"
+    },
+    {
+        "id": "471ed235-0308-4805-8166-542101752f33",
+        "date": "2023-12-21",
+        "resource": "testing",
+        "memory": 1.17,
+        "cpu": 0.77,
+        "storage": 0.55,
+        "category": "project"
+    },
+    {
+        "id": "87767c39-70cf-4835-b038-480b4133e028",
+        "date": "2023-06-11",
+        "resource": "product",
+        "memory": 0.42,
+        "cpu": 1.25,
+        "storage": 0.45,
+        "category": "project"
+    },
+    {
+        "id": "6bf5b19a-dafd-4164-a40f-355c79eb8dfb",
+        "date": "2023-02-11",
+        "resource": "testing",
+        "memory": 1.69,
+        "cpu": 0,
+        "storage": 0.55,
+        "category": "unbox"
+    },
+    {
+        "id": "361c8022-2e2e-43e2-b9a7-983fe0615dc2",
+        "date": "2023-10-12",
+        "resource": "testing",
+        "memory": 1.51,
+        "cpu": 0.95,
+        "storage": 1.49,
+        "category": "project"
+    },
+    {
+        "id": "d242b678-6f82-49a3-b84d-47ed698afc9d",
+        "date": "2023-02-11",
+        "resource": "product",
+        "memory": 0.76,
+        "cpu": 1.42,
+        "storage": 1.04,
+        "category": "unbox"
+    },
+    {
+        "id": "2cf970f9-40e3-4a64-9700-d5250724c524",
+        "date": "2023-07-17",
+        "resource": "product",
+        "memory": 1.17,
+        "cpu": 1.73,
+        "storage": 1.01,
+        "category": "unbox"
+    },
+    {
+        "id": "35bdbac4-7811-4c9d-9206-5a3b9289085b",
+        "date": "2023-05-24",
+        "resource": "product",
+        "memory": 1.13,
+        "cpu": 0.43,
+        "storage": 1.02,
+        "category": "project"
+    },
+    {
+        "id": "bafdac35-d35e-47fc-8f50-5df751e8a98a",
+        "date": "2023-05-24",
+        "resource": "product",
+        "memory": 1.73,
+        "cpu": 0.68,
+        "storage": 0.94,
+        "category": "project"
+    },
+    {
+        "id": "2a8edbed-c223-4b9d-8f4d-3d82abe4ff22",
+        "date": "2023-01-27",
+        "resource": "testing",
+        "memory": 0.49,
+        "cpu": 0.17,
+        "storage": 0.6,
+        "category": "unbox"
+    },
+    {
+        "id": "27e007ad-981c-4f07-8663-7f6d5f05452e",
+        "date": "2023-01-14",
+        "resource": "product",
+        "memory": 0.68,
+        "cpu": 1.73,
+        "storage": 1.92,
+        "category": "project"
+    },
+    {
+        "id": "3fdac80d-3d42-44ac-af70-c39394eca4a9",
+        "date": "2023-06-03",
+        "resource": "product",
+        "memory": 0.8,
+        "cpu": 0.2,
+        "storage": 0.05,
+        "category": "project"
+    },
+    {
+        "id": "f31e4942-daa6-4cc0-834f-db8246974268",
+        "date": "2023-08-13",
+        "resource": "testing",
+        "memory": 0.28,
+        "cpu": 1.52,
+        "storage": 1.7,
+        "category": "unbox"
+    },
+    {
+        "id": "e1ca8f6d-56da-4107-8573-f5fd174eb2cb",
+        "date": "2023-03-31",
+        "resource": "testing",
+        "memory": 1.94,
+        "cpu": 1.18,
+        "storage": 0.6,
+        "category": "unbox"
+    },
+    {
+        "id": "042f15f3-2a65-46f6-be5c-5bcfb26b5512",
+        "date": "2023-03-01",
+        "resource": "testing",
+        "memory": 0.64,
+        "cpu": 1.5,
+        "storage": 1.96,
+        "category": "project"
+    },
+    {
+        "id": "74173251-7812-4509-8afa-23e3b35c49ea",
+        "date": "2023-02-23",
+        "resource": "product",
+        "memory": 1.84,
+        "cpu": 0.5,
+        "storage": 0.61,
+        "category": "project"
+    },
+    {
+        "id": "d6f63d1e-f522-4323-9a0e-6cb5a7058a91",
+        "date": "2023-08-05",
+        "resource": "testing",
+        "memory": 1.42,
+        "cpu": 0.78,
+        "storage": 0.57,
+        "category": "unbox"
+    },
+    {
+        "id": "0191cebd-88a4-4e34-936c-8bd144b991be",
+        "date": "2023-07-12",
+        "resource": "testing",
+        "memory": 1.66,
+        "cpu": 1.12,
+        "storage": 1.58,
+        "category": "project"
+    },
+    {
+        "id": "da41e3be-01a3-49ee-a736-ba911830ca5b",
+        "date": "2023-04-21",
+        "resource": "product",
+        "memory": 0.47,
+        "cpu": 0.44,
+        "storage": 0.18,
+        "category": "unbox"
+    },
+    {
+        "id": "1b659551-9e8e-4a15-ac74-820fe9675001",
+        "date": "2023-02-24",
+        "resource": "testing",
+        "memory": 0.71,
+        "cpu": 0.96,
+        "storage": 0.66,
+        "category": "unbox"
+    },
+    {
+        "id": "88e4ed34-5232-44bb-a6f5-52435486f61c",
+        "date": "2023-01-08",
+        "resource": "product",
+        "memory": 0.16,
+        "cpu": 1.07,
+        "storage": 0.38,
+        "category": "project"
+    },
+    {
+        "id": "c0b4368f-7d74-415b-96e6-127aef698080",
+        "date": "2023-01-21",
+        "resource": "product",
+        "memory": 0.58,
+        "cpu": 0.65,
+        "storage": 1.05,
+        "category": "unbox"
+    },
+    {
+        "id": "b4c4b550-e361-4942-9076-0dcf300f1445",
+        "date": "2023-11-12",
+        "resource": "testing",
+        "memory": 0.47,
+        "cpu": 0.53,
+        "storage": 1.03,
+        "category": "project"
+    },
+    {
+        "id": "409e030e-174b-4ac3-8275-2b1363d26caa",
+        "date": "2023-07-14",
+        "resource": "testing",
+        "memory": 0.37,
+        "cpu": 0.67,
+        "storage": 1.47,
+        "category": "project"
+    },
+    {
+        "id": "b8c8500c-3ae4-4357-87ce-28edf05a45b4",
+        "date": "2023-03-08",
+        "resource": "product",
+        "memory": 1.95,
+        "cpu": 0.87,
+        "storage": 1.32,
+        "category": "project"
+    },
+    {
+        "id": "0b381bb3-2826-419f-aeb6-389eb9dd5a36",
+        "date": "2023-01-31",
+        "resource": "product",
+        "memory": 0.51,
+        "cpu": 0.68,
+        "storage": 1.62,
+        "category": "project"
+    },
+    {
+        "id": "045c134d-268f-4978-bdb3-284791653248",
+        "date": "2023-03-22",
+        "resource": "testing",
+        "memory": 0.7,
+        "cpu": 0.67,
+        "storage": 1.89,
+        "category": "unbox"
+    },
+    {
+        "id": "333717ec-58dc-46b2-a301-5914561635cf",
+        "date": "2023-02-25",
+        "resource": "testing",
+        "memory": 1.41,
+        "cpu": 1.88,
+        "storage": 0.4,
+        "category": "unbox"
+    },
+    {
+        "id": "f4b0e122-292d-44c1-8498-e7ae8532f687",
+        "date": "2023-06-11",
+        "resource": "testing",
+        "memory": 1.16,
+        "cpu": 0.89,
+        "storage": 0.46,
+        "category": "project"
+    },
+    {
+        "id": "3946f37c-f04f-49c8-8ffc-ff5afa46dadb",
+        "date": "2023-04-14",
+        "resource": "product",
+        "memory": 2.56,
+        "cpu": 0.84,
+        "storage": 2.87,
+        "category": "unbox"
+    },
+    {
+        "id": "3946f37c-f04f-49c8-8ffc-ff5afa46dadb",
+        "date": "2023-04-14",
+        "resource": "product",
+        "memory": 1.56,
+        "cpu": 0.24,
+        "storage": 0.87,
+        "category": "unbox"
+    }
+]
